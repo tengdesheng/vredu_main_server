@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: vredu_main_server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vredu
+Implementation-Vendor-Id: com.vredu
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/vredu_main_s
+ erver/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
